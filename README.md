@@ -16,7 +16,11 @@ git add . // add all files to staged changes.
 git add index.js // add index.js to staged changes.
 
 git commit -m "initial commit." // add commit.
+
+// add remote link
 git remote add origin git@github.com:betulsimsek/git-demo.git
+
+// push
 git push -u origin master
 ```
 
