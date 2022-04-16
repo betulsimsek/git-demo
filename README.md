@@ -27,6 +27,9 @@ git push -u origin master
 git checkout master 
 //  or 
 git checkout commitID
+
+// remove one commit from git history if not pushed.
+git reset --soft HEAD~1
 ```
 
 
