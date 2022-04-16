@@ -6,3 +6,4 @@
 // new bug fix. //TODO fixed
 
 // add feature 1 func.
+// add feature 1 func-2.
