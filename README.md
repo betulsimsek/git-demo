@@ -31,6 +31,9 @@ git checkout commitID
 // remove one commit from git history if not pushed.
 git reset --soft HEAD~1
 git reset --hard HEAD~1
+
+// force push (if pull and push exist.)
+git push -f
 ```
 
 
@@ -41,14 +44,7 @@ git branch -a // branch list.
 git checkout -b feature-1 //create branch and switch
 git checkout dev // switch branch
 
-
+// examples
+git rebase origin/dev
+git merge feature-1
 ```
-
-<!-- 
-push 
-pull 
-commit 
-branch
-rebase
-merge 
--->
