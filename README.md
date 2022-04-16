@@ -30,6 +30,7 @@ git checkout commitID
 
 // remove one commit from git history if not pushed.
 git reset --soft HEAD~1
+git reset --hard HEAD~1
 ```
 
 
