@@ -10,8 +10,11 @@ git config --list --global
 
 ```javascript
 git init
+
 git add . // add all files to staged changes.
+// or 
 git add index.js // add index.js to staged changes.
+
 git commit -m "initial commit." // add commit.
 git remote add origin git@github.com:betulsimsek/git-demo.git
 git push -u origin master
