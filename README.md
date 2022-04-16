@@ -22,6 +22,11 @@ git remote add origin git@github.com:betulsimsek/git-demo.git
 
 // push
 git push -u origin master
+
+// checkout 
+git checkout master 
+//  or 
+git checkout commitID
 ```
 
 
