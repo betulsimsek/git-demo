@@ -4,3 +4,5 @@
 
 // new feature
 // new bug fix. //TODO fixed
+
+// add feature 1 func.

@@ -34,6 +34,16 @@ git reset --hard HEAD~1
 ```
 
 
+### Git branch
+
+```javascript
+git branch -a // branch list.
+git checkout -b feature-1 //create branch and switch
+git checkout dev // switch branch
+
+
+```
+
 <!-- 
 push 
 pull 
